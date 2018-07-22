@@ -1,3 +1,3 @@
 # ccminer-renesis
 
-Awaited repo from A1
+Windows Binary
